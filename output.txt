@@ -1,0 +1,146 @@
+Script started on 2026-11-09 13:21:47-06:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="187" LINES="42"]
+[?2004h]0;prajan-shrestha@prajan-shrestha-HP-Pavilion-Laptop-15-cc5xx: ~/Downloads/Sem4/DSA/Homework/Lab02[01;32mprajan-shrestha@prajan-shrestha-HP-Pavilion-Laptop-15-cc5xx[00m:[01;34m~/Downloads/Sem4/DSA/Homework/Lab02[00m$ [7m./CharCraft[27m./CharCraft
+[?2004l
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 1
+Enter first string: computer
+Enter second string: science
+Result: First string is lexicographically smaller.
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 1
+Enter first string: cyber
+Enter second string: security
+Result: First string is lexicographically smaller.
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 1
+Enter first string: computer
+Enter second string: science
+Result: First string is lexicographically smaller.
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 2
+Enter first string: cu yber  
+Enter second string: security
+Enter number of characters to compare (N): 5
+Result: First string is smaller in first 5 characters.
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 3
+Enter string to copy: artificial
+Copied String: artificial
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 4
+Enter base string: c quantum
+Enter string to append:  computing
+Appended Result: quantum computing
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 5
+Enter string: blockchain
+Length of string: 10
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 6
+Enter string to tokenize and reverse: ai blockchain quantum
+Reversed Word Order: quantum blockchain ai
+
+=====================================
+  CharCraft - C-String Workshop Menu 
+=====================================
+1) Compare two strings
+2) Compare up to N characters
+3) Copy a string
+4) Append a string
+5) Find the length of a string
+6) Tokenize and reverse word order
+0) Exit
+=====================================
+Enter your choice: 0
+Exiting CharCraft Workshop. Goodbye!
+[?2004h]0;prajan-shrestha@prajan-shrestha-HP-Pavilion-Laptop-15-cc5xx: ~/Downloads/Sem4/DSA/Homework/Lab02[01;32mprajan-shrestha@prajan-shrestha-HP-Pavilion-Laptop-15-cc5xx[00m:[01;34m~/Downloads/Sem4/DSA/Homework/Lab02[00m$ [?2004l
+exit
+
+Script done on 2026-11-09 13:46:47-06:00 [COMMAND_EXIT_CODE="0"]
